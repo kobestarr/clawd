@@ -1,0 +1,13 @@
+{
+  "name": "ad-creator",
+  "version": "1.0.0",
+  "description": "Generate ad creative variations from Drive and Sheets",
+  "main": "ad-creator.js",
+  "scripts": {
+    "run": "node ad-creator.js",
+    "test": "node ad-creator.js --drive-folder \"Test/Images\" --sheet-id \"TEST_SHEET_ID\""
+  },
+  "dependencies": {
+    "googleapis": "^130.0.0"
+  }
+}

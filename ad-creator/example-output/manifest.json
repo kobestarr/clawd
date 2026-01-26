@@ -1,0 +1,3133 @@
+{
+  "source": "example",
+  "total": 240,
+  "generated": "2026-01-26T21:27:00.492Z",
+  "breakdown": {
+    "images": 4,
+    "headlines": 5,
+    "ctas": 4,
+    "descriptions": 3
+  },
+  "combinations": [
+    {
+      "id": "ad_1769462820491_0",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_1",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_2",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_3",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_4",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_5",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_6",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_7",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_8",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_9",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_10",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_11",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_12",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_13",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_14",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_15",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_16",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_17",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_18",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_19",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_20",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_21",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_22",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_23",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_24",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_25",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_26",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_27",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_28",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_29",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_30",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_31",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_32",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_33",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_34",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_35",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_36",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_37",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_38",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_39",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_40",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_41",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_42",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_43",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_44",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_45",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_46",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_47",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_48",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_49",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_50",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_51",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_52",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820491_53",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.491Z"
+    },
+    {
+      "id": "ad_1769462820492_54",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_55",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_56",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_57",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_58",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_59",
+      "image": {
+        "id": "img_1",
+        "name": "hero-banner.png",
+        "url": "https://drive.google.com/.../hero-banner.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_60",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_61",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_62",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_63",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_64",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_65",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_66",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_67",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_68",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_69",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_70",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_71",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_72",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_73",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_74",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_75",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_76",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_77",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_78",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_79",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_80",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_81",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_82",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_83",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_84",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_85",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_86",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_87",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_88",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_89",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_90",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_91",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_92",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_93",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_94",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_95",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_96",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_97",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_98",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_99",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_100",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_101",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_102",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_103",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_104",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_105",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_106",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_107",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_108",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_109",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_110",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_111",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_112",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_113",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_114",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_115",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_116",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_117",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_118",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_119",
+      "image": {
+        "id": "img_2",
+        "name": "product-screenshot.jpg",
+        "url": "https://drive.google.com/.../product.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_120",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_121",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_122",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_123",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_124",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_125",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_126",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_127",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_128",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_129",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_130",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_131",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_132",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_133",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_134",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_135",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_136",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_137",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_138",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_139",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_140",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_141",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_142",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_143",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_144",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_145",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_146",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_147",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_148",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_149",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_150",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_151",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_152",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_153",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_154",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_155",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_156",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_157",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_158",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_159",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_160",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_161",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_162",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_163",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_164",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_165",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_166",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_167",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_168",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_169",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_170",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_171",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_172",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_173",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_174",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_175",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_176",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_177",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_178",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_179",
+      "image": {
+        "id": "img_3",
+        "name": "team-photo.jpg",
+        "url": "https://drive.google.com/.../team.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_180",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_181",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_182",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_183",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_184",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_185",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_186",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_187",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_188",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_189",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_190",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_191",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Boost Your Sales with AI Agents",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_192",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_193",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_194",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_195",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_196",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_197",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_198",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_199",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_200",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_201",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_202",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_203",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Automate Your Workflow Today",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_204",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_205",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_206",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_207",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_208",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_209",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_210",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_211",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_212",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_213",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_214",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_215",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Scale Faster with Bluprintx",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_216",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_217",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_218",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_219",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_220",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_221",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_222",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_223",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_224",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_225",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_226",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_227",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "Enterprise-Grade AI for Sales",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_228",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_229",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_230",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Learn More",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_231",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_232",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_233",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Book a Demo",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_234",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_235",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_236",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Get Started",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_237",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "AI agents that actually work for enterprise teams. Built on Salesforce, trusted by Fortune 500.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_238",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "Transform your sales process in 30 days. See measurable results from day one.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    },
+    {
+      "id": "ad_1769462820492_239",
+      "image": {
+        "id": "img_4",
+        "name": "infographic.png",
+        "url": "https://drive.google.com/.../info.png"
+      },
+      "headline": "The Future of Sales is Here",
+      "cta": "Try Free",
+      "description": "The only AI platform designed specifically for B2B sales teams.",
+      "platform": "reddit",
+      "created": "2026-01-26T21:27:00.492Z"
+    }
+  ]
+}

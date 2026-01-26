@@ -1,0 +1,65 @@
+Ad Creative Summary
+====================
+
+Source: Example Data
+Total combinations: 240
+Breakdown:
+  Images: 4
+  Headlines: 5
+  CTAs: 4
+  Descriptions: 3
+
+Combinations:
+=============
+
+Ad 1: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Learn More
+  Description: AI agents that actually work for enterprise teams. Built on ...
+
+Ad 2: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Learn More
+  Description: Transform your sales process in 30 days. See measurable resu...
+
+Ad 3: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Learn More
+  Description: The only AI platform designed specifically for B2B sales tea...
+
+Ad 4: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Book a Demo
+  Description: AI agents that actually work for enterprise teams. Built on ...
+
+Ad 5: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Book a Demo
+  Description: Transform your sales process in 30 days. See measurable resu...
+
+Ad 6: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Book a Demo
+  Description: The only AI platform designed specifically for B2B sales tea...
+
+Ad 7: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Get Started
+  Description: AI agents that actually work for enterprise teams. Built on ...
+
+Ad 8: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Get Started
+  Description: Transform your sales process in 30 days. See measurable resu...
+
+Ad 9: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Get Started
+  Description: The only AI platform designed specifically for B2B sales tea...
+
+Ad 10: hero-banner.png
+  Headline: Boost Your Sales with AI Agents
+  CTA: Try Free
+  Description: AI agents that actually work for enterprise teams. Built on ...
+
+... and 230 more combinations
