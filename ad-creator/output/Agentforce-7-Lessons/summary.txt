@@ -1,0 +1,54 @@
+Ad Creative Summary
+═══════════════════════════════════════
+
+Ad Group: Agentforce-7-Lessons
+Sub-theme: Salesforce-Communities
+Landing Pages:
+  FULL_LP: https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide
+  Mini_LP: https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide
+Total Variations: 216
+
+═══════════════════════════════════════
+Generated Ads
+═══════════════════════════════════════
+
+1. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP
+   Headline: 7 Lessons from Agentforce Pioneers
+   CTA: Download Guide
+
+2. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP
+   Headline: 7 Lessons from Agentforce Pioneers
+   CTA: Download Guide
+
+3. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP
+   Headline: 7 Lessons from Agentforce Pioneers
+   CTA: Learn More
+
+4. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP
+   Headline: 7 Lessons from Agentforce Pioneers
+   CTA: Learn More
+
+5. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP
+   Headline: 7 Lessons from Agentforce Pioneers
+   CTA: Get Started
+
+6. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP
+   Headline: 7 Lessons from Agentforce Pioneers
+   CTA: Get Started
+
+7. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP
+   Headline: Why Your Boss Wants AI Agents
+   CTA: Download Guide
+
+8. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP
+   Headline: Why Your Boss Wants AI Agents
+   CTA: Download Guide
+
+9. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP
+   Headline: Why Your Boss Wants AI Agents
+   CTA: Learn More
+
+10. Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP
+   Headline: Why Your Boss Wants AI Agents
+   CTA: Learn More
+

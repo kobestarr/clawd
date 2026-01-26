@@ -1,105 +1,131 @@
-# Ad Creative Generation Engine
+# Ad Creative Generation Engine v2.0
 
-Generates all combinations of ad creatives from Google Drive images and Google Sheets text.
+Generates all combinations of ad creatives from Google Drive images and Google Sheets text — siloed by ad group with A/B testing for landing pages.
 
 ## Overview
 
 ```
-Input                          Processing              Output
-┌─────────────────┐           ┌─────────────────┐     ┌─────────────────┐
-│  Google Drive   │ ───────►  │  Combination    │ ──► │  Ad Variations  │
-│  Images Folder  │           │  Engine         │     │  Ready for Upload│
-└─────────────────┘           └─────────────────┘     └─────────────────┘
-        ▲                            │
-        │                            ▼
-        │                    ┌─────────────────┐
-        │                    │  Google Sheets  │
-        │                    │  Text Variants  │
-        │                    └─────────────────┘
-```
+┌─────────────────────────────────────────────────────────────┐
+│                    Drive Folder Structure                   │
+└─────────────────────────────────────────────────────────────┘
 
-## Setup
-
-### 1. Google Drive Setup
-
-Create a folder for your ad images:
-```
 Bluprintx/
 └── Ads/
     └── Images/
-        ├── hero-1.png
-        ├── hero-2.png
-        ├── product-1.jpg
-        └── ...
+        ├── Agentforce-7-Lessons/
+        │   ├── Salesforce-Communities/
+        │   │   ├── Img-V1.png
+        │   │   ├── Img-V2.png
+        │   │   └── Img-V3.png
+        │   └── Boss-Wants-AI/
+        │       ├── Img-V1.png
+        │       └── Img-V2.png
+        └── Another-Campaign/
+            └── Img-V1.png
 ```
 
-### 2. Google Sheets Setup
-
-Create a spreadsheet with tabs for each text type:
-
-**Sheet: "Headlines"**
-| A |
-|---|
-| Boost your sales with AI |
-| Automate your workflow |
-| Scale faster with Bluprintx |
-
-**Sheet: "CTAs"**
-| A |
-|---|
-| Learn More |
-| Book a Demo |
-| Get Started |
-
-**Sheet: "Descriptions"**
-| A |
-|---|
-| AI agents that actually work for enterprise teams |
-| Transform your sales process in 30 days |
-| Built on Salesforce, trusted by Fortune 500 |
-
-## Usage
+## Quick Start
 
 ```bash
+cd /root/clawd/ad-creator
 npm install
 
-# Run with your folder and sheet
-node ad-creator.js \
-  --drive-folder "Bluprintx/Ads/Images" \
-  --sheet-id "YOUR_SPREADSHEET_ID"
+# Run interactively
+node ad-creator.js
+
+# Or with arguments
+node ad-creator.js --ad-group "Agentforce-7-Lessons" --url "https://bluprintx.com/agentforce-360/?utm_source=Reddit..."
 ```
 
-## Output
+## Interactive Prompts
 
-The tool generates:
+```
+Ad Group Name (e.g., Agentforce-7-Lessons): Agentforce-7-Lessons
+Full Landing Page URL: https://bluprintx.com/agentforce-360/?utm_source=Reddit...
+Sub-theme (optional): Salesforce-Communities
+Drive Folder: Bluprintx/Ads/Images
+Google Sheet ID: YOUR_SHEET_ID
+```
+
+## Ad Title Format
+
+```
+{AdGroup} | {SubTheme} | {Img-Variant}_{LP-Type}
+```
+
+**Example:**
+```
+Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP
+Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP
+Agentforce-7-Lessons | Boss-Wants-AI | Img-V1_FULL_LP
+```
+
+## Landing Page A/B Testing
+
+The engine automatically creates two URL variants:
+
+| Variant | URL Pattern | Example |
+|---------|-------------|---------|
+| **FULL_LP** | Original URL | `.../agentforce-360/?utm_source=Reddit...` |
+| **Mini_LP** | `-min` suffix | `.../agentforce-360-min/?utm_source=Reddit...` |
+
+## Google Sheets Format
+
+Create a spreadsheet with these tabs:
+
+### Tab: "Headlines"
+| A |
+|---|
+| 7 Lessons from Agentforce Pioneers |
+| Why Your Boss Wants AI Agents |
+| Enterprise AI That Actually Works |
+
+### Tab: "CTAs"
+| A |
+|---|
+| Download Guide |
+| Learn More |
+| Get Started |
+
+### Tab: "Themes" (Optional)
+| A |
+|---|
+| Salesforce-Communities |
+| Boss-Wants-AI |
+| Enterprise-Ready |
+
+## Output Structure
 
 ```
 output/
-├── manifest.json      # All combinations with metadata
-├── summary.txt        # Human-readable summary
-└── ads/
-    ├── ad_1234567890.json
-    ├── ad_1234567891.json
-    └── ...
+└── {AdGroup}/
+    ├── manifest.json      # All combinations + metadata
+    ├── summary.txt        # Human-readable summary
+    └── ads/
+        ├── ad_123.json    # Individual ad
+        └── ad_124.json
 ```
 
 ### Manifest Format
 
 ```json
 {
-  "total": 45,
-  "generated": "2026-01-26T21:00:00.000Z",
+  "config": {
+    "ad_group": "Agentforce-7-Lessons",
+    "sub_theme": "Salesforce-Communities",
+    "landing_pages": {
+      "full": "https://bluprintx.com/agentforce-360/?utm_source=Reddit...",
+      "mini": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit..."
+    },
+    "total_variations": 216
+  },
   "combinations": [
     {
-      "id": "ad_1234567890",
-      "image": {
-        "name": "hero-1.png",
-        "url": "https://drive.google.com/..."
-      },
-      "headline": "Boost your sales with AI",
-      "cta": "Learn More",
-      "description": "AI agents that actually work...",
-      "platform": "reddit"
+      "id": "ad_123",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP"
     }
   ]
 }
@@ -107,44 +133,40 @@ output/
 
 ## Example Combinations
 
-With 3 images × 5 headlines × 3 CTAs × 2 descriptions = **90 variations**
+**Input:**
+- 3 images (Img-V1, Img-V2, Img-V3)
+- 4 headlines
+- 3 CTAs
+- 2 landing page variants
 
-| Image | Headline | CTA | Description |
-|-------|----------|-----|-------------|
-| hero-1.png | Boost your sales... | Learn More | AI agents that... |
-| hero-1.png | Boost your sales... | Book a Demo | AI agents that... |
-| hero-1.png | Boost your sales... | Get Started | AI agents that... |
-| ... | ... | ... | ... |
+**Result:** 3 × 4 × 3 × 2 = **72 variations**
 
-## Reddit Ad Format
+## Command Line Options
 
-The generated ads are formatted for Reddit Ads API:
-
-```json
-{
-  "name": "Ad Name",
-  "campaign_id": "CAMPAIGN_ID",
-  "ad_group_id": "AD_GROUP_ID",
-  "creative": {
-    "title": "Boost your sales with AI",
-    "image_id": "MEDIA_ID",
-    "call_to_action": {
-      "id": "CALL_TO_ACTION_ID"
-    },
-    "body": "AI agents that actually work..."
-  }
-}
+```bash
+node ad-creator.js \
+  --ad-group "Campaign-Name" \
+  --url "https://..." \
+  --drive-folder "Folder/Path" \
+  --sheet-id "SPREADSHEET_ID" \
+  --output "./output"
 ```
-
-## Next Steps
-
-1. ✅ Generate all combinations
-2. ⏳ Review and approve variations
-3. ⏳ Upload to Reddit Ads API (when ready)
-4. ⏳ Set budgets and launch
 
 ## Files
 
-- `ad-creator.js` - Main engine
+- `ad-creator.js` - Main engine (interactive + CLI)
 - `package.json` - Dependencies
 - `README.md` - This file
+- `output/` - Generated ads (gitignored)
+
+## Dependencies
+
+- `googleapis` - For Drive/Sheets integration
+
+## Next Steps
+
+1. ✅ Create Drive folder: `Bluprintx/Ads/Images/{AdGroup}/{SubTheme}`
+2. ✅ Upload images with names like `Img-V1.png`
+3. ✅ Create Google Sheet with Headlines, CTAs, Themes tabs
+4. ✅ Run: `node ad-creator.js`
+5. ⏳ Upload generated ads to Reddit Ads API (when approved)

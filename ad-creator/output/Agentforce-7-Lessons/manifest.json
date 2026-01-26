@@ -1,0 +1,2174 @@
+{
+  "config": {
+    "ad_group": "Agentforce-7-Lessons",
+    "sub_theme": "Salesforce-Communities",
+    "landing_pages": {
+      "full": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide",
+      "mini": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    "generated": "2026-01-26T21:35:19.382Z",
+    "total_variations": 216
+  },
+  "combinations": [
+    {
+      "id": "ad_0",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_1",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_2",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_3",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_4",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_5",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_6",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_7",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_8",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_9",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_10",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_11",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_12",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_13",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_14",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_15",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_16",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_17",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_18",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_19",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_20",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_21",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_22",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_23",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_24",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_25",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_26",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_27",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_28",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_29",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_30",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_31",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_32",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_33",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_34",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_35",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_36",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_37",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_38",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_39",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_40",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_41",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_42",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_43",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_44",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_45",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_46",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_47",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_48",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_49",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_50",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_51",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_52",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_53",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_54",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_55",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_56",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_57",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_58",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_59",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_60",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_61",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_62",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_63",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_64",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_65",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_66",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_67",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_68",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_69",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_70",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_71",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_72",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_73",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_74",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_75",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_76",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_77",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_78",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_79",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_80",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_81",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_82",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_83",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_84",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_85",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_86",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_87",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_88",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_89",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_90",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_91",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_92",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_93",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_94",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_95",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_96",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_97",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_98",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_99",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_100",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_101",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_102",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_103",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_104",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_105",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_106",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_107",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_108",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_109",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_110",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_111",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_112",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_113",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_114",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_115",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_116",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_117",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_118",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_119",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_120",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_121",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_122",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_123",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_124",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_125",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_126",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_127",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_128",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_129",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_130",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_131",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_132",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_133",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_134",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_135",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_136",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_137",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_138",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_139",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_140",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_141",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_142",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_143",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V2_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_144",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_145",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_146",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_147",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_148",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_149",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_150",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_151",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_152",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_153",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_154",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_155",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_156",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_157",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_158",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_159",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_160",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_161",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_162",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_163",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_164",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_165",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_166",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_167",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Salesforce-Communities",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_168",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_169",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_170",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_171",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_172",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_173",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_174",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_175",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_176",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_177",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_178",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_179",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_180",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_181",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_182",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_183",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_184",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_185",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_186",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_187",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_188",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_189",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_190",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_191",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Boss-Wants-AI | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Boss-Wants-AI",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_192",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_193",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_194",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_195",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_196",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_197",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_198",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_199",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_200",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_201",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_202",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_203",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Why Your Boss Wants AI Agents",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_204",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_205",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_206",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_207",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_208",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_209",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Enterprise AI That Actually Works",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_210",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_211",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Download Guide",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_212",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_213",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Learn More",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_214",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "FULL_LP",
+      "url": "https://bluprintx.com/agentforce-360/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    },
+    {
+      "id": "ad_215",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Enterprise-Ready | Img-V3_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "theme_used": "Enterprise-Ready",
+      "headline": "Drive ROI with Agentforce",
+      "cta": "Get Started",
+      "lp_variant": "Mini_LP",
+      "url": "https://bluprintx.com/agentforce-360-min/?utm_source=Reddit&utm_medium=social&utm_campaign=agentforce_guide"
+    }
+  ]
+}
