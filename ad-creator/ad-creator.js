@@ -14,6 +14,45 @@
  * 
  * Or with args:
  *   node ad-creator.js --ad-group "Agentforce-7-Lessons" --url "https://bluprintx.com/..."
+ * 
+ * ============================================================================
+ * FOLDER STRUCTURE & SCALING NOTES
+ * ============================================================================
+ * 
+ * CURRENT SETUP (Personal Use):
+ * - Uses Google OAuth credentials from ~/.clawdbot/gdrive/
+ * - Assumes: Bluprintx/Ads/Images/{AdGroup}/{SubTheme}
+ * 
+ * EXPECTED DRIVE FOLDER STRUCTURE:
+ *   Bluprintx/
+ *   └── Ads/
+ *       └── Images/
+ *           └── Agentforce-7-Lessons/
+ *               └── Salesforce-Communities/
+ *                   ├── Img-V1.png
+ *                   ├── Img-V2.png
+ *                   └── Img-V3.png
+ * 
+ * TO SCALE FOR MULTI-USER/TEAM USE:
+ * 1. Service Account: Use a Google Cloud service account instead of OAuth
+ *    - Create at: https://console.cloud.google.com/iam-admin/serviceaccounts
+ *    - Share the target Drive folders with the service account email
+ * 
+ * 2. Folder Structure for Teams:
+ *    Each user would have their own folder:
+ *    - /{OrgName}/{UserName}/Ads/Images/{AdGroup}/{SubTheme}/
+ * 
+ * 3. Environment Variables (for production):
+ *    - GOOGLE_SERVICE_ACCOUNT_EMAIL
+ *    - GOOGLE_PRIVATE_KEY
+ *    - DEFAULT_DRIVE_FOLDER_PATH
+ * 
+ * 4. For Client-Facing Use:
+ *    - Users connect their own Google account via OAuth
+ *    - Or provide a shared "Bluprintx" folder they can upload to
+ *    - Clear instructions in UI: "Upload images to: Bluprintx/Ads/Images/{YourAdGroup}/"
+ * 
+ * ============================================================================
  */
 
 const fs = require('fs');

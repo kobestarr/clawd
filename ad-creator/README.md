@@ -157,6 +157,54 @@ node ad-creator.js \
 - `ad-creator.js` - Main engine (interactive + CLI)
 - `package.json` - Dependencies
 - `README.md` - This file
+
+## Scaling & Multi-User Considerations
+
+### Current Setup (Personal Use)
+
+This engine uses OAuth credentials stored in `~/.clawdbot/gdrive/`. For personal use, this works great.
+
+### For Team/Client Use
+
+To scale this for multiple users or clients:
+
+#### Option 1: Shared Folder Structure
+Ask users to upload to a shared structure:
+```
+Bluprintx/Shared/
+└── Ads/
+    └── Images/
+        └── {ClientName}/
+            └── {AdGroup}/
+                └── {SubTheme}/
+                    └── *.png
+```
+
+#### Option 2: Service Account
+For automated/multi-tenant use:
+1. Create a Google Cloud service account
+2. Share target Drive folders with the service account email
+3. Use environment variables:
+   ```
+   GOOGLE_SERVICE_ACCOUNT_EMAIL=xxx@project.iam.gserviceaccount.com
+   GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----..."
+   ```
+
+#### Option 3: User OAuth Flow
+For client-facing apps:
+- Implement Google OAuth 2.0 consent flow
+- Store user tokens securely
+- Let each user connect their own Drive
+
+### Code Notes for Scaling
+
+- See `ad-creator.js` header comments for technical details
+- Consider adding: rate limiting, retry logic, proper error handling
+- Add unit tests before scaling to production
+
+## License
+
+MIT - See LICENSE file
 - `output/` - Generated ads (gitignored)
 
 ## Dependencies
