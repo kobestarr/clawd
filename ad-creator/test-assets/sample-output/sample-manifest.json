@@ -1,0 +1,86 @@
+{
+  "config": {
+    "platform": "reddit",
+    "client": "kobestarr-digital",
+    "ad_group": "Agentforce-7-Lessons",
+    "sub_theme": "Salesforce-Communities",
+    "landing_pages": {
+      "full": "https://bluprintx.com/agentforce-360/",
+      "mini": "https://bluprintx.com/agentforce-360-min/"
+    },
+    "generated": "2026-01-27T10:00:00.000Z",
+    "total_variations": 84,
+    "breakdown": {
+      "images": 3,
+      "headlines": 7,
+      "ctas": 5,
+      "themes": 1,
+      "lp_variants": 2
+    }
+  },
+  "combinations": [
+    {
+      "id": "ad_001",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "sub_theme": "Salesforce-Communities",
+      "theme": "Salesforce-Communities",
+      "image": {
+        "name": "Img-V1.png",
+        "path": "images/kobestarr-digital/agentforce-7-lessons/Img-V1.png",
+        "description": "Hero banner showing AI agent dashboard"
+      },
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "description": "Learn how enterprise teams are using Agentforce to transform their sales operations.",
+      "landing_page": "https://bluprintx.com/agentforce-360/",
+      "lp_variant": "FULL_LP",
+      "platform": "reddit",
+      "created": "2026-01-27T10:00:00.000Z"
+    },
+    {
+      "id": "ad_002",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V1_Mini_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "sub_theme": "Salesforce-Communities",
+      "theme": "Salesforce-Communities",
+      "image": {
+        "name": "Img-V1.png",
+        "path": "images/kobestarr-digital/agentforce-7-lessons/Img-V1.png",
+        "description": "Hero banner showing AI agent dashboard"
+      },
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Download Guide",
+      "description": "Learn how enterprise teams are using Agentforce.",
+      "landing_page": "https://bluprintx.com/agentforce-360-min/",
+      "lp_variant": "Mini_LP",
+      "platform": "reddit",
+      "created": "2026-01-27T10:00:01.000Z"
+    },
+    {
+      "id": "ad_003",
+      "ad_title": "Agentforce-7-Lessons | Salesforce-Communities | Img-V2_FULL_LP",
+      "ad_group": "Agentforce-7-Lessons",
+      "sub_theme": "Salesforce-Communities",
+      "theme": "Salesforce-Communities",
+      "image": {
+        "name": "Img-V2.png",
+        "path": "images/kobestarr-digital/agentforce-7-lessons/Img-V2.png",
+        "description": "Product screenshot of Agentforce interface"
+      },
+      "headline": "7 Lessons from Agentforce Pioneers",
+      "cta": "Learn More",
+      "description": "Learn how enterprise teams are using Agentforce to transform their sales operations.",
+      "landing_page": "https://bluprintx.com/agentforce-360/",
+      "lp_variant": "FULL_LP",
+      "platform": "reddit",
+      "created": "2026-01-27T10:00:02.000Z"
+    }
+  ],
+  "_peer_review_notes": {
+    "purpose": "This file shows the expected output format for peer review",
+    "how_to_use": "Review the structure, validate the JSON, check that all fields make sense",
+    "total_combinations": "3 images × 7 headlines × 5 CTAs × 1 theme × 2 LP = 210 variations",
+    "but_showing": "Only first 3 examples for readability"
+  }
+}

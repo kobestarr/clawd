@@ -11,3 +11,9 @@ tokens.json
 
 # Client secrets
 **/client_secret_*.json
+
+# Test assets - real images (don't commit real test images)
+test-assets/images/*.png
+test-assets/images/*.jpg
+test-assets/images/*.jpeg
+test-assets/images/*.gif
