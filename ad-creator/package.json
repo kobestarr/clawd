@@ -6,6 +6,8 @@
   "scripts": {
     "run": "node ad-creator.js",
     "setup:gdrive": "node src/setup-google-drive.js",
+    "setup:reddit": "node src/setup-reddit.js",
+    "test:reddit": "node test-reddit-api.js",
     "test": "node test-combinations.js"
   },
   "dependencies": {

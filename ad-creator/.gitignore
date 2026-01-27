@@ -17,3 +17,7 @@ test-assets/images/*.png
 test-assets/images/*.jpg
 test-assets/images/*.jpeg
 test-assets/images/*.gif
+
+# Reddit API tokens (sensitive)
+config/reddit-*.json
+.ad-creator/reddit-tokens-*.json
