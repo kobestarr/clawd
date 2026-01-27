@@ -19,5 +19,5 @@ test-assets/images/*.jpeg
 test-assets/images/*.gif
 
 # Reddit API tokens (sensitive)
-config/reddit-*.json
-.ad-creator/reddit-tokens-*.json
+# config/reddit-*.json  # Commented out so credentials can be shared with team
+.ad-creator/reddit-tokens-*.json  # Still protect actual OAuth tokens

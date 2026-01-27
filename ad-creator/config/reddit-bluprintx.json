@@ -1,0 +1,16 @@
+{
+  "client_id": "2JkGff3iDSuUFeqAFDhaDA",
+  "client_secret": "Fh85yB_XO7ldBNg45tKevgTKmHQaaw",
+  "ad_account_id": "a2_i5qw2u3t9aca",
+  "redirect_uri": "https://bluprintx.com/privacy",
+  "user_agent": "ad-creator/bluprintx/2.0",
+  "token_scopes": [
+    "adsread",
+    "adsconversions",
+    "history",
+    "adsedit",
+    "read"
+  ],
+  "client_name": "bluprintx",
+  "created_at": "2026-01-27T06:50:00.000Z"
+}
