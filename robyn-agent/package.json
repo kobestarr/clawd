@@ -1,0 +1,21 @@
+{
+  "name": "robyn-agent",
+  "version": "1.0.0",
+  "description": "Robyn AI agent - Slack + WhatsApp messaging service for clawd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test:briefing": "node -e \"require('./core/briefing-runner').runBriefing('morning').then(console.log)\"",
+    "test:slack": "node -e \"require('./channels/slack').testWebhook('Test from Robyn!')\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@slack/bolt": "^4.1.0",
+    "dotenv": "^16.4.0",
+    "node-cron": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

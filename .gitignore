@@ -46,6 +46,9 @@ __pycache__/
 **/__pycache__/
 *.pyc
 
+# Conversation history (contains chat data)
+robyn-agent/memory/conversations/
+
 # Sub-project repos (managed separately)
 ad-intel/
 ad-creator/
